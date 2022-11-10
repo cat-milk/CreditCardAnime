@@ -60,7 +60,7 @@
     "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
     "autoprefixer": "^9.8.6",
     "concurrently": "^6.2.0",
-    "electron": "^13.1.2",
+    "electron": "^18.3.7",
     "electron-devtools-installer": "^3.2.0",
     "postcss": "^7.0.36",
     "react-refresh": "^0.10.0",
